@@ -1,1 +1,1 @@
-console.log('е2е тестирование...')
+console.log('e2e testing...')
